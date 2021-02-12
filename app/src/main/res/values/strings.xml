@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VSS</string>
+    <string name="button">Calculate</string>
+    <string name="e2">E2</string>
+    <string name="i0">I0</string>
+    <string name="e1">E1</string>
+</resources>
